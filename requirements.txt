@@ -1,0 +1,9 @@
+streamlit
+openai
+chromadb
+pymupdf
+pymupdf4llm
+pandas
+matplotlib
+python-dotenv
+jupyter
